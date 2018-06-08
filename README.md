@@ -1,1 +1,2 @@
 # BookStoreBySpringboot
+使用springboot整合mybatis,数据库连接池使用的是阿里的druid，前端使用的是freemaker+bootstrap，并使用maven作为自动化构建工具
